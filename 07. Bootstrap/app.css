@@ -1,0 +1,30 @@
+#content{
+	text-align: center;
+	padding-top: 25%;
+	color:white;
+}
+
+hr { height:3px; border:none; color:rgb(60,90,180); background-color:white; margin: 2% 25%; }
+
+body{
+	background: url(https://images.unsplash.com/photo-1513360371669-4adf3dd7dff8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80);
+	background-size: cover;
+	background-position: center;	
+font-family: 'Rubik', sans-serif;
+}
+
+/*.my-btn{*/
+	/*background-color: white;*/
+/*}*/
+
+h1{
+	font-weight: 700;
+	font-size: 3em;
+	text-shadow: 0px 4px rgb(0,0,0,0.1)
+				 0px 8px rgb(0,0,0,0.1)
+				 0px 18px 23px rgb(0,0,0,0.1);
+}
+
+html{
+	height: 100%;
+}

@@ -1,0 +1,36 @@
+/*h1{
+	color:orange;
+}*/
+
+h1{
+	font-family: 'Montaga', serif;
+	/*margin:auto;*/
+	text-align: center;
+}
+
+.down{
+	border-bottom: 1px solid black;
+}
+
+.right{
+	border-right: 1px solid black;
+}
+
+/*#first{
+	border-right: 1px solid black;
+	border-bottom: 1px solid black;
+}
+*/
+/*second{
+
+}*/
+
+td{
+	
+	padding: 60px;
+	/*text-align: center;*/
+}
+
+table{
+	margin:auto;
+}
